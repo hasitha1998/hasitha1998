@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align= "center">
-   <img src="https://github.com/hasitha1998/cover/blob/main/plasma.jpg" width = "750px" height = "400px" align = "center"/>
+   <img src="https://github.com/hasitha1998/hasitha1998/blob/main/plasma.jpg" width = "750px" height = "400px" align = "center"/>
 </h1>
 <!--
 **hasitha1998/hasitha1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
