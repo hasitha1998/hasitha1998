@@ -2,17 +2,12 @@
 
 
 
+
 <h1 align= "center">
    <img src="https://github.com/hasitha1998/hasitha1998/blob/main/plasma.jpg" width = "750px" height = "400px" align = "center"/>
 </h1>
 
-<div class="container">
-    <h1 class="neonText">
-          Hello!
-    </h1>
-    <h2 class="neonText">I am Hasitha</h2> 
 
- </div>
 
 
 ## <h2>Skills and Languages</h2>
