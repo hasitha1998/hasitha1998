@@ -8,7 +8,7 @@
 </h1>
 
 
-
+![Profile views](https://gpvc.arturio.dev/hasitha1998) 
 
 ## <h2>Skills and Languages</h2>
 
