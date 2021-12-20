@@ -4,7 +4,7 @@
 
 
 <h1 align= "center">
-   <img src="https://github.com/hasitha1998/hasitha1998/blob/main/plasma1.jpg" width = "750px" height = "400px" align = "center"/>
+   <img src="https://github.com/hasitha1998/hasitha1998/blob/main/plasma12.jpg" width = "750px" height = "400px" align = "center"/>
 </h1>
 
 
