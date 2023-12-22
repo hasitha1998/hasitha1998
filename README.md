@@ -2,14 +2,12 @@
 
 
 
-
+ ![Animated GIF](https://example.com/yourgif.gif](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
 <h1 align= "center">
-   <img src="https://github.com/hasitha1998/hasitha1998/blob/main/code.jpg" width = "750px" height = "400px" align = "center"/>
-   <video width="750px" height="400px" controls>
-  <source src="binary.mp4" type="video/mp4">
   
-  Your browser does not support the video tag.
-</video>
+
+   <img src="https://github.com/hasitha1998/hasitha1998/blob/main/code.jpg" width = "750px" height = "400px" align = "center"/>
+
 </h1>
 
 
