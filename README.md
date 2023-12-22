@@ -12,8 +12,8 @@
 
 ## <h2>Skills and Languages</h2>
 
-<div class="skills">
-  <div class="skill">
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="width: 25%; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     <div class="skill-bar c"></div>
   </div>
