@@ -14,8 +14,8 @@
 
 ## Skills and Languages
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="width: 25%; text-align: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     <div>C</div>
     <div class="skill-bar c"></div>
