@@ -7,15 +7,13 @@
 
 <h1 align= "center">
  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "750px" height = "400px" align = "center"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "600px" height = "400px" align = "center"/>
 <br>
  
 </h1>
 
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/hasitha1998" alt="Profile views"/>
-</p>
+
 
 
 ## <h2>Skills and Languages</h2>
@@ -37,5 +35,4 @@
 
 
 ## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasitha1998&show_icons=true)  
-## Video Demo
-![Animated GIF](binary.gif)
+
