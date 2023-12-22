@@ -35,4 +35,4 @@
 
 ## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasitha1998&show_icons=true)  
 ## Video Demo
-[![Watch the video](https://github.com/hasitha1998/hasitha1998/blob/main/code.jpg)](binary.mp4)
+[Watch the video](binary.mp4)
