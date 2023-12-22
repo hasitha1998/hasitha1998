@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-<div align="center">
-  ![Animated GIF](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
-</div>
+
+  
+
 
 <h1 align= "center">
-  
+  ![Animated GIF](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
 
    <img src="https://github.com/hasitha1998/hasitha1998/blob/main/code.jpg" width = "750px" height = "400px" align = "center"/>
 
