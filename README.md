@@ -2,7 +2,7 @@
 
 
 
- ![Animated GIF](https://example.com/yourgif.gif](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
+ ![Animated GIF](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
 <h1 align= "center">
   
 
