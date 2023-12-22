@@ -7,13 +7,16 @@
 
 <h1 align= "center">
  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "400px" height = "400px" align = "center"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "750px" height = "400px" align = "center"/>
 <br>
  
 </h1>
 
 
-![Profile views](https://gpvc.arturio.dev/hasitha1998) 
+<p align="center">
+  <img src="https://gpvc.arturio.dev/hasitha1998" alt="Profile views"/>
+</p>
+
 
 ## <h2>Skills and Languages</h2>
 
