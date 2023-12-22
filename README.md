@@ -9,7 +9,7 @@
  
   <img src="https://media.giphy.com/media/ZkVIzvAEUA4ISI6WpO/giphy.gif" width = "400px" height = "400px" align = "center"/>
 <br>
-   <img src="https://github.com/hasitha1998/hasitha1998/blob/main/code.jpg" width = "750px" height = "400px" align = "center"/>
+  
 
 </h1>
 
