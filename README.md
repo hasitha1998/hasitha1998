@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social badges -->
-<a href="[https://www.linkedin.com/in/hasitha-sanjaya](https://www.linkedin.com/in/hasitha-sanjaya-521bb5201/)" target="_blank">
+<a href="https://www.linkedin.com/in/hasitha-sanjaya-521bb5201/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:hasithasanjaya123@gmail.com">
