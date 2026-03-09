@@ -155,7 +155,7 @@ const hasitha = {
   <img src="https://img.shields.io/badge/📧%20hasithasanjaya123%40gmail.com-EA4335?style=for-the-badge"/>
 </a>
 <br/>
-<img src="https://img.shields.io/badge/📞%20%2B94%2076%20632%200198-25D366?style=for-the-badge"/>
+<!-- <img src="https://img.shields.io/badge/📞%20%2B94%2076%20632%200198-25D366?style=for-the-badge"/> -->
 
 <br/><br/>
 
